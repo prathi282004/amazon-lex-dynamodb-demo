@@ -22,13 +22,13 @@ flowchart LR
 
 
 ## 📸 Screenshots
-Lex Console – Intent Definition
+**Lex Console – Intent Definition**
 ![image alt](https://github.com/prathi282004/amazon-lex-dynamodb-demo/blob/071b5cdf802253a6cdb3ac3ba39999cb79cf6f1b/amazon_lex.png)
 
-DynamoDB Table View
+**DynamoDB Table View**
 ![image alt](https://github.com/prathi282004/amazon-lex-dynamodb-demo/blob/071b5cdf802253a6cdb3ac3ba39999cb79cf6f1b/dynamoDB.png)
 
-Chatbot Conversation Demo (Test Console)
+**Chatbot Conversation Demo (Test Console)**
 ![image alt](https://github.com/prathi282004/amazon-lex-dynamodb-demo/blob/071b5cdf802253a6cdb3ac3ba39999cb79cf6f1b/sample_test_view.png)
 
 
